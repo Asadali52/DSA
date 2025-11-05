@@ -31,9 +31,17 @@ c => 99 and so on;
 
 
 
-# -ve number binary // Two's Complement of a Number
+# -ve number binary // Two's Complement of a Number // decimal to binary
 # example -10
 +ve 10's binary num => 1010
 Then add 0 infront for -ve sign , so => 01010
 And now change all the numbers 1 will convert to 0 and 0 will convert to 1 , so answer is => 10101
 And at the end add 1 to binary number so final answer is => 10110
+
+
+# -ve number binary // Two's Complement of a Number // binary to decimal
+for this we must know that number is -ve 
+# example (10110)base 2
+first of all change all the numbers 0 will convert to 1 and 1 will convert to 0 , so => 01001
+now add 1 so answer will be => 01010 => 1010 which is equal to 10 
+so answer is -10
