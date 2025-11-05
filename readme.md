@@ -12,7 +12,7 @@ C => 67 and so on;
 
 a => 97
 b => 98
-c => 99
+c => 99 and so on;
 
 
 # Remember 
@@ -28,3 +28,12 @@ c => 99
 8 => 10000
 9 => 1001
 10 => 1010
+
+
+
+# -ve number binary // Two's Complement of a Number
+# example -10
++ve 10's binary num => 1010
+Then add 0 infront for -ve sign , so => 01010
+And now change all the numbers 1 will convert to 0 and 0 will convert to 1 , so answer is => 10101
+And at the end add 1 to binary number so final answer is => 10110
