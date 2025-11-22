@@ -13,7 +13,6 @@ int main()
     // cout << (x & y) << endl;
     // cout << (x | y) << endl;
     // cout << (x ^ y) << endl;
-    
 
     cout << (10 << 2) << endl;
     cout << (4 << 1) << endl;
